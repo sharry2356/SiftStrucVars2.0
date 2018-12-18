@@ -1,0 +1,8 @@
+.RData
+.Rhistory
+Anthesis_*
+Meristems_*
+Intermediates/
+Outputs/
+!*.R
+!*.sh
